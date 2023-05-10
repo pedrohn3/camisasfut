@@ -1,0 +1,30 @@
+h3{
+    background-color: #191970;
+    padding:10px 0;
+    text-align: center;
+    color:white;
+}
+#camisaTime{
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 0px;
+}
+.centro{
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 0px;
+}
+#informacoes{
+    margin-top: 0%;
+    margin-left: 0px;
+}
+#camisaTime{
+    width: 550px;
+    height: 550px;
+}
+*{
+    margin-top: 0;
+    margin-right: 0;
+    margin-left: 0%;
+    font-family: Courier ;
+}
